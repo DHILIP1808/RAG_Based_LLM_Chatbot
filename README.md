@@ -111,18 +111,6 @@ RAG_Based_LLM_Chatbot/
 
 ---
 
-## 📸 Screenshots
-
-### 💬 Chat Interface
-![Chat UI Screenshot](./screenshots/chat_ui.png)
-
-### 📊 Retrieval Results
-![Retrieval Results](./screenshots/retrieval_results.png)
-
-> *Place actual screenshots inside a `/screenshots` folder.*
-
----
-
 ## 🚀 Future Improvements
 - 🌐 Add multilingual support  
 - 📊 Display source references in chat UI  
@@ -137,5 +125,3 @@ For major changes, please open an issue first to discuss your ideas.
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License.
